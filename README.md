@@ -5,7 +5,7 @@
 #### Some of the main ones are @JoinColumn, @Table, @OneToOne, @OneToMany, @ManyToOne, @ManyToMany, and @Entity.
 
 
-### @Entity
+@Entity
 #### Specifies that the class is an entity. This annotation can be applied on Class, Interface of Enums.
 
 @Table: 
